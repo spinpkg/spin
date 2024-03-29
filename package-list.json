@@ -1,0 +1,15 @@
+
+{
+    "chrome": {
+        "installerUrl": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B306DC223-6630-B0C6-9886-D5DC14A46DF3%7D%26lang%3Den%26browser%3D4%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe",
+        "author": "Google",
+        "name": "Google Chrome",
+        "installerType": "exe"
+    },
+    "nodejs": {
+        "installerUrl": "https://nodejs.org/dist/v20.12.0/node-v20.12.0-x64.msi",
+        "author": "OpenJS Foundation",
+        "name": "Node.js",
+        "installerType": "msi"
+    }
+}
