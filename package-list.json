@@ -11,5 +11,11 @@
         "author": "OpenJS Foundation",
         "name": "Node.js",
         "installerType": "msi"
+    },
+    "firefox": {
+        "installerUrl": "https://cdn.stubdownloader.services.mozilla.com/builds/firefox-stub/en-US/win/e3c54f0a32337a41b55dad5543e9b93f39473051fcb1da631b195c2d76f8fe75/Firefox%20Installer.exe",
+        "author": "Mozilla Foundation",
+        "name": "Mozilla Firefox",
+        "installerType": "exe"
     }
 }
