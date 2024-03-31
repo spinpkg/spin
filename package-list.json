@@ -17,5 +17,11 @@
         "author": "Mozilla Foundation",
         "name": "Mozilla Firefox",
         "installerType": "exe"
+    },
+    "code": {
+        "installerUrl": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/863d2581ecda6849923a2118d93a088b0745d9d6/VSCodeUserSetup-x64-1.87.2.exe",
+        "author": "Microsoft",
+        "name": "Visual Studio Code",
+        "installerType": "exe"
     }
 }
